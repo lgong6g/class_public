@@ -1,5 +1,3 @@
-Hi I forked this repo in order to practice a tutorial for GitHub
-
 CLASS: Cosmic Linear Anisotropy Solving System  {#mainpage}
 ==============================================
 
